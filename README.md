@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+-->
 - 🔭 I’m currently working on React-Native
 - 🌱 I’m currently learning AI-ML
 - 👯 I’m looking to collaborate on React, React-Native
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Don't Reach me
 - 😄 Pronouns: Shaik
 - ⚡ Fun fact: 
--->
